@@ -1,3 +1,1 @@
-# AI-
-->Trainer is training code which is endlessly train the AI model in 30 min loop
-->AI file is discord bot and contain AI model function
+Thử nghiệm ứng dụng drone trong hệ thống cảnh báo lũ từ dòng chảy đầu nguồn - by THIỆN NHÂN
